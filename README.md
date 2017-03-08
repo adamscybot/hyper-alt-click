@@ -1,7 +1,7 @@
 # hyper-alt-click
-An experimental (hacky) plugin to allow moving the cursor by alt+clicking in [hyper](https://hyper.io/). Very early in development.
+An experimental (hacky) plugin to allow moving the cursor by alt+clicking in [hyper](https://hyper.is/). Very early in development.
 
-**DISCLAIMER**: This plugin is essentially one giant hack due to the limited API provided by Hyper. Use it with caution! Actual support should be added to hyper core. Unless someone finds a better way. than this!
+**DISCLAIMER**: This plugin is essentially one giant hack due to the limited API provided by Hyper. Use it with caution! Actual support should be added to hyper core. Unless someone finds a better way than this!
 
 # Installation
 
