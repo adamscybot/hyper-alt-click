@@ -1,0 +1,15 @@
+{
+  "name": "hyper-alt-click",
+  "version": "1.0.0",
+  "description": "A hyper plugin that allows you to move the cursor using the mouse via the alt+click combination.",
+  "keywords": [
+    "hyper",
+    "hyper.app"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Thomas (@adamscybot)",
+  "license": "MIT"
+}
