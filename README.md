@@ -16,6 +16,8 @@ add `hyper-alt-click` to `~/.hyper.js`'s plugin list.
 }
 ```
 
+You may need to restart hyper.
+
 # FAQ
 
 ## Does it work on windows?
