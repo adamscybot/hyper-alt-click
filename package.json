@@ -1,6 +1,6 @@
 {
   "name": "hyper-alt-click",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A hyper plugin that allows you to move the cursor using the mouse via the alt+click combination.",
   "keywords": [
     "hyper",
