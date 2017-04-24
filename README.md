@@ -27,4 +27,5 @@ No idea, but I don't see why not.
 Not yet, as it cant seem to handle the new lines. This is possible though in a future version and with more research.
 
 ## Why experimental/hacky?
-[explanation incoming]
+
+https://github.com/zeit/hyper/issues/316#issuecomment-294730384
