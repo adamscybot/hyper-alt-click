@@ -1,3 +1,9 @@
+# THIS PACKAGE IS NOW DEPRECATED
+
+In Hyper 2, XTerm is used instead of HTerm -- which comes with native support for alt+click. This means that as long as you are using Hyper 2, you do not need this plugin.
+
+See https://github.com/zeit/hyper/issues/316 for updates.
+
 # hyper-alt-click
 An experimental (hacky) plugin to allow moving the cursor by alt+clicking in [hyper](https://hyper.is/). Very early in development.
 
